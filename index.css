@@ -1,0 +1,53 @@
+/* Basic reset and font */
+* 
+{ box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, Arial, sans-serif;
+ }
+.container{
+	
+	margin-top: 200px;
+	background-color: azure;
+	height:70vh;
+}
+.row{
+	
+	display: flex;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+     align-content: stretch;
+}
+.calc-button{
+	font-size: 100px;
+	font-weight: 400;
+	width:150px;
+	box-shadow: black;
+	background-color: aliceblue;
+}
+.calc-button:hover {
+	background-color:burlywood;
+}
+.calc-button:active {
+	background-color: blanchedalmond;
+}
+.double{
+	width:300px;
+}
+.calc-button:last-child{
+	background-color: orange ;
+}
+.calc-button:last-child:hover {
+	background-color: orangered;
+}
+.calc-button:last-child:active{
+	background-color: rosybrown;
+}
+.screen{
+	color:white;
+	font-size: 40px;
+	font-family: 'Courier New', Courier, monospace;
+	text-align: right;
+	padding: 20px 5px;
+	background-color: black;
+	width:597px;
+	margin-left: 656px;
+}
