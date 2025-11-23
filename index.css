@@ -32,6 +32,9 @@
 .double{
 	width:300px;
 }
+.triple{
+	width:450px;
+}
 .calc-button:last-child{
 	background-color:#dd8d37 ;
 }
