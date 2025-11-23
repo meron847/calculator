@@ -27,19 +27,19 @@
 	background-color:burlywood;
 }
 .calc-button:active {
-	background-color: blanchedalmond;
+	background-color: #bbbcbe;
 }
 .double{
 	width:300px;
 }
 .calc-button:last-child{
-	background-color: orange ;
+	background-color:#dd8d37 ;
 }
 .calc-button:last-child:hover {
-	background-color: orangered;
+	background-color: #dfb07e;
 }
 .calc-button:last-child:active{
-	background-color: rosybrown;
+	background-color: #dd8d37;
 }
 .screen{
 	color:white;
